@@ -62,10 +62,10 @@ Mājaslapā būs pieejamas receptes dažādās kategorijās:
 ---
 
 ## 👨‍🍳 Komanda
-- **[Vārds Uzvārds 1]** — dizains un logo  
-- **[Vārds Uzvārds 2]** — programmēšana  
-- **[Vārds Uzvārds 3]** — satura veidošana (receptes, teksts)  
-- **[Vārds Uzvārds 4]** — tulkojumi un testēšana  
+- **[Artemijs Strukis]** — dizains un logo  
+- **[Artemijs Strukis]** — programmēšana  
+- **[Oleg Mamedov]** — satura veidošana (receptes, teksts)  
+- **[Ivan Gulevics]** — tulkojumi un testēšana  
 
 ---
 
